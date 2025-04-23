@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Naslov
 ---
 
+# 🦍 Sigma Boy
+
+## stay sigma 🕶️
